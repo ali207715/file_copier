@@ -1,0 +1,8 @@
+<config>
+    <file
+            source_path="test_source"
+            destination_path="test_dest"
+            file_name="testfile.txt"
+    />
+    
+</config>
